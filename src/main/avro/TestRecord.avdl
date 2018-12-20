@@ -1,0 +1,8 @@
+@namespace("com.williamheng.avro")
+protocol Simple {
+
+    record TestData {
+        string id;
+    }
+
+}
